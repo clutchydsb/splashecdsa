@@ -6,8 +6,8 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/CryptoKass/splashecdsa"
-	"github.com/CryptoKass/splashecdsa/ecmath"
+	"Nezha/evm/splashecdsa"
+	"Nezha/evm/splashecdsa/ecmath"
 )
 
 func TestSigningP256(t *testing.T) {

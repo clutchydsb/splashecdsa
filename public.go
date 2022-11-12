@@ -27,7 +27,7 @@ import (
 	"crypto/elliptic"
 	"math/big"
 
-	"github.com/CryptoKass/splashecdsa/ecmath"
+	"Nezha/evm/splashecdsa/ecmath"
 )
 
 // PublicKey is a wrapper for ecdsa.PublicKey which adds

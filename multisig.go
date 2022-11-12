@@ -25,8 +25,8 @@ package splashecdsa
 import (
 	"crypto/elliptic"
 
-	"github.com/CryptoKass/splashecdsa/ecmath"
-	"github.com/CryptoKass/splashmerkle"
+	"Nezha/evm/splashecdsa/ecmath"
+	"Nezha/evm/splashmerkle"
 )
 
 // GenerateMultiSigKey - Create a new Random multiSigKey

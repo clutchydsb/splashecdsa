@@ -26,7 +26,7 @@ import (
 	"crypto/elliptic"
 	"math/big"
 
-	"github.com/CryptoKass/splashecdsa/ecmath"
+	"Nezha/evm/splashecdsa/ecmath"
 )
 
 // SplashSignature an ECDSA signature which allows for
